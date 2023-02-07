@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="47" started-at="2023-02-07T13:02:26Z" finished-at="2023-02-07T13:02:26Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="47" started-at="2023-02-07T13:02:26Z" finished-at="2023-02-07T13:02:26Z">
+      <class name="com.testvagrant.interview.RC_Banglore.TestCase">
+        <test-method status="PASS" signature="Team_has_atleast_one_wc()[pri:0, instance:com.testvagrant.interview.RC_Banglore.TestCase@9629756]" name="Team_has_atleast_one_wc" duration-ms="35" started-at="2023-02-07T13:02:26Z" finished-at="2023-02-07T13:02:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Team_has_atleast_one_wc -->
+        <test-method status="PASS" signature="The_team_has_only_4_players()[pri:0, instance:com.testvagrant.interview.RC_Banglore.TestCase@9629756]" name="The_team_has_only_4_players" duration-ms="0" started-at="2023-02-07T13:02:26Z" finished-at="2023-02-07T13:02:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- The_team_has_only_4_players -->
+      </class> <!-- com.testvagrant.interview.RC_Banglore.TestCase -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
