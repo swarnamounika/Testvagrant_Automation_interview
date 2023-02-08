@@ -1,4 +1,2 @@
-.project
-\ExtentReport
-.classpath
-\target
+/ExtentReport/
+/target/
