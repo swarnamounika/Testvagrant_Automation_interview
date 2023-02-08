@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.testvagrant.interview.RC_Banglore.TestCase
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.504 s - in com.testvagrant.interview.RC_Banglore.TestCase
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.929 s - in com.testvagrant.interview.RC_Banglore.TestCase
